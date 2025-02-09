@@ -8,7 +8,7 @@ body {
     text-align: center;
 }
 
-ul li{
+ul li, p{
     list-style-type: none;
     text-align: left;
 }
@@ -19,4 +19,13 @@ img {
     border: solid 2px black;
     border-radius: 50% 40px;
     box-shadow: 10px 20px 30px;
+}
+
+.box {
+    background-color: antiquewhite;
+    outline: 4px dashed salmon;
+    width: 80%;
+    height: auto;
+    padding: 50px;
+    margin: auto;
 }
