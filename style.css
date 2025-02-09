@@ -1,4 +1,8 @@
 body {
+    background-image: url("./images/main-image.jpg");
+    background-size: cover;
+    background-position: auto;
+    background-repeat: no-repeat;
     background-color:lightblue;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
