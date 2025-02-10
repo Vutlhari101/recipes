@@ -17,14 +17,14 @@ img {
     height: 280px;
     width: auto;
     border: solid 2px black;
-    border-radius: 50% 40px;
-    box-shadow: 10px 20px 30px;
+    border-radius: 50%;
+    box-shadow: 0px 1px 70px blue;
 }
 
 .box {
     background-color: antiquewhite;
-    outline: 4px dashed salmon;
-    width: 80%;
+    outline: 3px dashed salmon;
+    width: 100;
     height: auto;
     padding: 50px;
     margin: auto;
